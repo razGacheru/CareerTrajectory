@@ -1,0 +1,39 @@
+job_title,job_level,skills,programming_languages,experience_years,experience_role
+Developer,Junior,"Problem Solving, Teamwork, Communication","Python, JavaScript",0,None
+Developer,Mid,"Problem Solving, Teamwork, Communication, Leadership","Python, JavaScript, Java",2,Developer
+Developer,Senior,"Problem Solving, Teamwork, Communication, Leadership, Project Management","Python, Java, C++",7,Developer
+Data Engineer,Junior,"Data Analysis, SQL, ETL","Python, SQL",0,None
+Data Engineer,Mid,"Data Analysis, SQL, ETL, Data Warehousing","Python, SQL, R",2,Data Engineer
+Data Engineer,Senior,"Data Analysis, SQL, ETL, Data Warehousing, Cloud Computing","Python, SQL, R, AWS",7,Data Engineer
+AI Specialist,Junior,"Machine Learning, Data Analysis, Python","Python, TensorFlow",0,None
+AI Specialist,Mid,"Machine Learning, Data Analysis, Python, Deep Learning","Python, TensorFlow, Keras",2,AI Specialist
+AI Specialist,Senior,"Machine Learning, Data Analysis, Python, Deep Learning, NLP","Python, TensorFlow, Keras, PyTorch",7,AI Specialist
+Network Engineer,Junior,"Networking, Problem Solving, Security","Python, Java",0,None
+Network Engineer,Mid,"Networking, Problem Solving, Security, System Administration","Python, Java, C#",2,Network Engineer
+Network Engineer,Senior,"Networking, Problem Solving, Security, System Administration, Cloud Computing","Python, Java, C#, AWS",7,Network Engineer
+Software Engineer,Mid,"Software Development, Problem Solving, Teamwork","Python, Java, C++",2,Developer
+Software Engineer,Senior,"Software Development, Problem Solving, Teamwork, Project Management","Python, Java, C++",5,Software Engineer
+IT Support Specialist,Mid,"Data Analysis, SQL, Reporting","Python, R, SQL",2,"Developer, Data Engineer, AI Specialist"
+Data Analyst,Senior,"Data Analysis, SQL, Reporting, Data Visualization","Python, R, SQL",5,Data Analyst
+Data Scientist,Mid,"Data Analysis, Machine Learning, Python","Python, R, SQL",2,"Data Engineer, AI Specialist"
+Data Scientist,Senior,"Data Analysis, Machine Learning, Python, Deep Learning","Python, R, SQL, TensorFlow",5,Data Scientist
+AI Research Scientist,Mid,"AI Research, Machine Learning, Python","Python, TensorFlow, PyTorch",2,AI Specialist
+AI Research Scientist,Senior,"AI Research, Machine Learning, Python, Deep Learning","Python, TensorFlow, PyTorch, Keras",5,AI Research Scientist
+System Administrator,Mid,"System Administration, Networking, Security","Python, Bash, PowerShell",2,Network Engineer
+System Administrator,Senior,"System Administration, Networking, Security, Cloud Computing","Python, Bash, PowerShell, AWS",5,System Administrator
+Network Architect,Mid,"Networking, System Design, Security","Python, Java, C#",2,Network Engineer
+Network Architect,Senior,"Networking, System Design, Security, Cloud Architecture","Python, Java, C#, AWS",5,Network Architect
+Machine Learning Engineer,Mid,"Machine Learning, Data Analysis, Python","Python, TensorFlow, R",2,"AI Specialist, Data Engineer"
+Machine Learning Engineer,Senior,"Machine Learning, Data Analysis, Python, Deep Learning","Python, TensorFlow, Keras",5,Machine Learning Engineer
+Computer Vision Engineer,Mid,"Computer Vision, Machine Learning, Python","Python, OpenCV, TensorFlow",2,AI Specialist
+Computer Vision Engineer,Senior,"Computer Vision, Machine Learning, Python, Deep Learning","Python, OpenCV, TensorFlow, Keras",5,Computer Vision Engineer
+Natural Language Processing Engineer,Mid,"NLP, Machine Learning, Text Processing","Python, NLTK, TensorFlow",2,AI Specialist
+Natural Language Processing Engineer,Senior,"NLP, Machine Learning, Text Processing, Deep Learning","Python, NLTK, TensorFlow, Keras",5,Natural Language Processing Engineer
+Robotics Engineer,Mid,"Robotics, Machine Learning, Python","Python, C++, ROS",2,AI Specialist
+Robotics Engineer,Senior,"Robotics, Machine Learning, Python, AI","Python, C++, ROS, TensorFlow",5,AI Specialist
+IT Support Specialist,Mid,"Technical Support, System Administration, Troubleshooting","Python, Bash, PowerShell",2,"Network Engineer, Developer"
+IT Support Specialist,Senior,"Technical Support, System Administration, Troubleshooting, Project Management","Python, Bash, PowerShell, AWS",5,IT Support Specialist
+Cybersecurity Analyst,Mid,"Cybersecurity, Network Security, Threat Analysis","Python, Java, C++",2,Network Engineer
+Cybersecurity Analyst,Senior,"Cybersecurity, Network Security, Threat Analysis, Incident Response","Python, Java, C++, AWS",5,Cybersecurity Analyst
+Cloud Solutions Architect,Mid,"Cloud Computing, System Design, Security","Python, AWS, Azure",2,Network Engineer
+Cloud Solutions Architect,Senior,"Cloud Computing, System Design, Security, Cloud Architecture","Python, AWS, Azure, GCP",5,Cloud Solutions Architect
