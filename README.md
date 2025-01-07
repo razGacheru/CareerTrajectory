@@ -19,3 +19,7 @@ With the rapid development of technologies such as AI, GenAI, and IoT, the job m
 - Manage Personal Career Plan
 - Find out about latest Career Trends and Advice
 
+## Acknowledgement
+
+This project was developed entirely by the students from scratch, including the design choices and implementation of features. The university course provided us with a real client and required us to engage directly with them to gather requirements. The role of the university staff was to collaborate with us, approve our ideas, and grade our work based on the final outcome.
+
